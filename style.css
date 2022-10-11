@@ -12,7 +12,7 @@ button {
 
 
 /* Styling for the third button */
-.button3 {
+.button1 {
   color: white;
   background: darkturquoise;
   padding: 20px;
@@ -23,7 +23,7 @@ button {
 }
 
 /* Styling for the third button when hovering over it */
-.button3:hover {
+.button1:hover {
   color: white;
   background: plum;
   border-radius: 50px;
